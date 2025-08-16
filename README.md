@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0E43F7&background=3159FF00&width=700&lines=%F0%9F%A4%96+Chatexpert+%E2%80%93+AI-Powered+Chatbot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=7D1DF7&background=3159FF00&width=700&lines=%F0%9F%A4%96+Chatexpert+%E2%80%93+AI-Powered+Chatbot)](https://git.io/typing-svg)
 
 <img width="1302" height="622" alt="Screenshot 2025-08-16 at 7 26 55 AM" src="https://github.com/user-attachments/assets/4c184ed8-eaf0-4b7f-be57-a16a7a1e9950" />
 
