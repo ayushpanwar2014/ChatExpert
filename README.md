@@ -1,11 +1,7 @@
-
-## Screenshots
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0E43F7&background=3159FF00&width=500&lines=%F0%9F%A4%96+Chatexpert+%E2%80%93+AI-Powered+Chatbot)](https://git.io/typing-svg)
 
 <img width="1302" height="622" alt="Screenshot 2025-08-16 at 7 26 55 AM" src="https://github.com/user-attachments/assets/4c184ed8-eaf0-4b7f-be57-a16a7a1e9950" />
 
-
-
-## Chatexpert – AI-Powered Chatbot
 
 Full-Stack Developer | August 2025
 GitHub Repository: https://github.com/ayushpanwar2014/Chatexpert | Remote
