@@ -11,6 +11,7 @@ html {
 body {
   background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 13%, rgba(9,9,121,1) 67%, rgba(76,79,157,1) 100%);
+font-family: "Poppins", serif;
 }
 .App {
   display: flex;

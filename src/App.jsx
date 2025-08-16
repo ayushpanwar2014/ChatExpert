@@ -13,7 +13,7 @@ import { useEffect, useRef, useState } from "react"
 function App() {
 
   const msgEnd = useRef(null);
-  const genAI = new GoogleGenerativeAI("AIzaSyCda0yoky3rY6xdNqVb4lwOT0aAPwlh8Pg");
+  const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GIT_API_KEY);
   const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
   const [input, setInput] = useState("");
   const [messages, setMessages] = useState([
@@ -23,6 +23,7 @@ function App() {
     }
   ]);
 
+  
   useEffect(() => {
     msgEnd.current.scrollIntoView();
   }, [messages])
