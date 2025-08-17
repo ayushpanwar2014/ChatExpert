@@ -5,7 +5,7 @@
 
 ## Full-Stack Developer | August 2025
 
-GitHub Repository: [Repo](https://github.com/ayushpanwar2014/Chatexpert) | Remote
+- GitHub Repository: [Repo](https://github.com/ayushpanwar2014/Chatexpert) | Remote
 
 ## Tech Skills 🛠️
 
@@ -36,7 +36,7 @@ Chatexpert is an AI-powered chatbot built with React, integrated with the Gemini
 ## Environment Variables
 
 - The frontend requires the following environment variables in a .env file:
-- 
+  
 ```bash
 VITE_GIT_API_KEY
 ````
