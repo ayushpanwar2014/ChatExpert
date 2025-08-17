@@ -4,9 +4,8 @@
 
 
 ## Full-Stack Developer | August 2025
+
 GitHub Repository: [Repo](https://github.com/ayushpanwar2014/Chatexpert) | Remote
-
-
 
 ## Tech Skills 🛠️
 
